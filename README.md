@@ -1,6 +1,6 @@
 JokesApp
 
-A web database app in ASP.NET Core created by following FreeCodeCamp.org tutorial
+A web database app in ASP.NET Core created by following FreeCodeCamp.org [tutorial here](https://www.youtube.com/watch?v=BfEjDD8mWYg&list=PLk8C7XSZm0pV0hf9ORcBSsjix14eeDIVw&index=3).
 
 This tutorial will show you how to :
 - Use the MVC (Model View Controller) design pattern.
